@@ -1,0 +1,34 @@
+.accordion_container {
+  
+}
+
+.accordion_head {
+  background-color: #979393;
+  color: white;
+  cursor: pointer;
+  font-family: arial;
+  font-size: 14px;
+  margin: 0 0 1px 0;
+  padding: 7px 11px;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.accordion_body{
+  background: #fff;
+}
+.accordion_body ul {
+  margin-left: 10px;
+}
+.accordion_head a{
+  color: #fff;
+}
+.accordion_body p {
+  padding: 18px 5px;
+  margin: 0px;
+}
+
+.plusminus {
+  float: right;
+}
+    
